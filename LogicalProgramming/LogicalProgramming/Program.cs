@@ -16,9 +16,15 @@ namespace LogicalProgramming
             //PerfectNumber pf = new PerfectNumber();
             //pf.perfectNumber();
 
-            Console.WriteLine("Prime Number Program");
-            PrimeNumber pn = new PrimeNumber();
-            pn.primeNumber();
+            //Console.WriteLine("Prime Number Program!");
+            //PrimeNumber pn = new PrimeNumber();
+            //pn.primeNumber();
+
+            Console.WriteLine("Reverse Number Program!");
+            ReverseNumber rn = new ReverseNumber();
+            rn.Reverse();
+
+
         }
     }
 }
