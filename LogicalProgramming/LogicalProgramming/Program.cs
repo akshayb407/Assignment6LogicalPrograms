@@ -20,9 +20,14 @@ namespace LogicalProgramming
             //PrimeNumber pn = new PrimeNumber();
             //pn.primeNumber();
 
-            Console.WriteLine("Reverse Number Program!");
-            ReverseNumber rn = new ReverseNumber();
-            rn.Reverse();
+            //Console.WriteLine("Reverse Number Program!");
+            //ReverseNumber rn = new ReverseNumber();
+            //rn.Reverse();
+
+            Console.WriteLine("Cupon Number Program!");
+            CuponNumbers cn = new CuponNumbers();
+            cn.CuponNumberGenerator();
+
 
 
         }
