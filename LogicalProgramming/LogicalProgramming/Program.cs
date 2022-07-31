@@ -12,9 +12,13 @@ namespace LogicalProgramming
             //Fibonacci f = new Fibonacci();
             //f.FindFibonacci();
 
-            Console.WriteLine("Perfect Number Program!");
-            PerfectNumber pf = new PerfectNumber();
-            pf.perfectNumber();
+            //Console.WriteLine("Perfect Number Program!");
+            //PerfectNumber pf = new PerfectNumber();
+            //pf.perfectNumber();
+
+            Console.WriteLine("Prime Number Program");
+            PrimeNumber pn = new PrimeNumber();
+            pn.primeNumber();
         }
     }
 }
