@@ -24,10 +24,13 @@ namespace LogicalProgramming
             //ReverseNumber rn = new ReverseNumber();
             //rn.Reverse();
 
-            Console.WriteLine("Cupon Number Program!");
-            CuponNumbers cn = new CuponNumbers();
-            cn.CuponNumberGenerator();
+            //Console.WriteLine("Cupon Number Program!");
+            //CuponNumbers cn = new CuponNumbers();
+            //cn.CuponNumberGenerator();
 
+            Console.WriteLine("Stopch Watch Program!");
+            StopWatch sw = new StopWatch();
+            sw.MeasureElapsedTime();
 
 
         }
